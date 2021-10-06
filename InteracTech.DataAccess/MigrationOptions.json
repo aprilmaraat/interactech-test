@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Database": "Server=127.0.0.1;User=root;Database=poco;Port=3306;SSL Mode=None"
+  }
+}

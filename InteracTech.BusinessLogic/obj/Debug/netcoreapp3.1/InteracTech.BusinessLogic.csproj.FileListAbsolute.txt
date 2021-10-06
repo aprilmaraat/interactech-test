@@ -1,0 +1,13 @@
+D:\Projects\interactech-test\InteracTech.BusinessLogic\bin\Debug\netcoreapp3.1\InteracTech.BusinessLogic.deps.json
+D:\Projects\interactech-test\InteracTech.BusinessLogic\bin\Debug\netcoreapp3.1\InteracTech.BusinessLogic.dll
+D:\Projects\interactech-test\InteracTech.BusinessLogic\bin\Debug\netcoreapp3.1\InteracTech.BusinessLogic.pdb
+D:\Projects\interactech-test\InteracTech.BusinessLogic\obj\Debug\netcoreapp3.1\InteracTech.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\interactech-test\InteracTech.BusinessLogic\obj\Debug\netcoreapp3.1\InteracTech.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\interactech-test\InteracTech.BusinessLogic\obj\Debug\netcoreapp3.1\InteracTech.BusinessLogic.AssemblyInfoInputs.cache
+D:\Projects\interactech-test\InteracTech.BusinessLogic\obj\Debug\netcoreapp3.1\InteracTech.BusinessLogic.AssemblyInfo.cs
+D:\Projects\interactech-test\InteracTech.BusinessLogic\obj\Debug\netcoreapp3.1\InteracTech.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\interactech-test\InteracTech.BusinessLogic\obj\Debug\netcoreapp3.1\InteracTech.BusinessLogic.dll
+D:\Projects\interactech-test\InteracTech.BusinessLogic\obj\Debug\netcoreapp3.1\InteracTech.BusinessLogic.pdb
+D:\Projects\interactech-test\InteracTech.BusinessLogic\bin\Debug\netcoreapp3.1\InteracTech.DataAccess.dll
+D:\Projects\interactech-test\InteracTech.BusinessLogic\bin\Debug\netcoreapp3.1\InteracTech.DataAccess.pdb
+D:\Projects\interactech-test\InteracTech.BusinessLogic\obj\Debug\netcoreapp3.1\InteracTech.BusinessLogic.csproj.CopyComplete
